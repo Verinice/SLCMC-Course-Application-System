@@ -1,0 +1,18 @@
+{
+    "name": "difatha/slcmc-course-application-system",
+    "description": "Online course application system for Sister Lionella Consolata Medical College",
+    "type": "project",
+    "license": "GNU GENERAL PUBLIC LICENSE",
+    "autoload": {
+        "psr-4": {
+            "Difatha\\SlcmcCourseApplicationSystem\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Difatha",
+            "email": "difathathuoh8@gmail.com"
+        }
+    ],
+    "require": {}
+}
