@@ -33,4 +33,6 @@ Steps to install
 3. Run the app on apache server preferrably xampp server
 5. Explore and rate.
 
-![alt text](Screenshot_20241020-231501-1.png)
+![alt text](./public/assets/images/tests/Screenshot_20241020-231501-1.png) ![alt text](./public/assets/images/tests/Screenshot_20241020-231514-1.png)
+![alt text](./public/assets/images/tests/Screenshot_20241020-231525-1.png) ![alt text](./public/assets/images/tests/creenshot_20241020-231601-1.png)
+![alt text](./public/assets/images/tests/Screenshot_20241020-231622-1.png) ![alt text](./public/assets/images/tests/Screenshot_20241020-231716-1.png)
