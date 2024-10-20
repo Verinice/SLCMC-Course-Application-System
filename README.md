@@ -26,6 +26,13 @@ when applicant login).
 - Create a public repository in your GitHub account.
 - Upload your codes including the database.
 
+Steps to install
+
+1. Import database provided MYSQL
+2. Create .env file that replicates .env.local
+3. Run the app on apache server preferrably xampp server
+5. Explore and rate.
+
 ![alt text](Screenshot_20241020-231501.png)
 ![alt text](Screenshot_20241020-231514.png)
 ![alt text](Screenshot_20241020-231525.png)
