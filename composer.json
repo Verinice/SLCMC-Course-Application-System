@@ -5,7 +5,7 @@
     "license": "GNU GENERAL PUBLIC LICENSE",
     "autoload": {
         "psr-4": {
-            "Difatha\\SlcmcCourseApplicationSystem\\": "src/"
+            "SLCMC\\": "src/"
         }
     },
     "authors": [
@@ -14,5 +14,8 @@
             "email": "difathathuoh8@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "jenssegers/blade": "^1.4",
+        "vlucas/phpdotenv": "^5.6"
+    }
 }

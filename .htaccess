@@ -1,0 +1,9 @@
+RewriteEngine On
+RewriteRule ^index.php$ src/inc/home.php [L]
+RewriteRule ^login$ src/inc/login.php [L]
+RewriteRule ^register$ src/inc/register.php [L]
+RewriteRule ^api/register$ api/register.php [L]
+RewriteRule ^courses$ src/inc/featured.php [L]
+RewriteRule ^cart$ src/inc/cart.php [L]
+RewriteRule ^dashboard$ src/inc/dashboard.php [L]
+RewriteRule ^logout$ src/inc/logout.php [L]
